@@ -99,18 +99,38 @@ To browse and find mods from [Thunderstore](https://thunderstore.io/c/sons-of-th
 ## Option 3: Nexus Mods + Vortex
 To browse and find mods from [Nexus Mods](https://www.nexusmods.com/games/sonsoftheforest) and install them using [Vortex](https://www.nexusmods.com/about/vortex), please follow the below steps.
 
-1. Download Vortex from [here](https://www.nexusmods.com/about/vortex/).
-2. Run Vortex and log into your Nexus Mods account.
-3. Go to the **Games** tab and click manage **Sons of The Forest**.
-4. If the game isn't detected, try the following.
-   * Click **Manually Set Location** and browse to your Steam install folder for the game.
-5. Download a mod from Nexus Mods using the **Mod Manager Download** button if available.
-6. In Vortex:
-   * Go to **Mods** tab
-   * Enable and deploy the mod
-7. Launch the game from Vortex or through Steam (Anti-Cheat Disabled if needed)
+Firstly, you'll want to download Vortex.
 
-**NOTE** - Not every mod supports installing through Vortex. If you don't see a button for Vortex on the mod, the mod is not likely supported and you'll need to use another install method.
+1. Download Vortex from [here](https://www.nexusmods.com/site/mods/1?tab=files).
+    * Unless if you're a premium user, you will need to choose the **slow download** option.
+2. Run the installer.
+    * **Windows**: Ensure you have [.NET Desktop Runtime 6](https://aka.ms/dotnet/6.0/windowsdesktop-runtime-win-x64.exe) installed!
+    * Vortex may prompt and guide you on fixing issues.
+3. Now go to the **Games**  tab.
+4. Either find Sons of the Forest from the **Unmanaged** list of games or search for it in the search box at the top.
+5. Click the **Manage** button located in the middle of the Sons of the Forest game card.
+6. This will attempt to add support for the game.
+    * If Vortex has issues finding the game's location, follow the below steps:
+        1. Go to the **Games** tab through Vortex.
+        2. Find the game card under the **Managed** list.
+        3. Click the **three dots** button located to the top-right of the card.
+        4. Click **Manually Set Location**.
+        5. Select the location of your game install.
+    * Ensure you see the game's section in the left sidebar. If not, click the **Activate** button under the game card.
+
+Now, you'll want to download and install mods!
+
+1. Ensure you're logged into your Nexus Mods account through Vortex.
+    * You can click the **Login** button at the top-right of the application if not.
+3. Go to the mod's page you want to install on Nexus Mods' website.
+4. If Vortex is supported, you'll see a **Vortex** button next to the **Manual** button on the right side. Click this button.
+    * If you don't see a Vortex button, it means the mod is **not supported** through Vortex and you'll need to **manually install** the mod (instructions included below).
+5. Choose what download type you want (e.g., slow download).
+6. The file should open in Vortex automatically and start downloading.
+    * Go to the **Downloads** tab through Vortex to check the progress!
+7. The mod should be automatically installed.
+    * You can go to the **Mods** tab under the Sons of the Forest section in the left sidebar to confirm if the mod is loaded.
+    * You can remove mods by clicking the **Remove** button located on the right side of the mod item.
 
 **NOTE** - Vortex may not handle dependency installations as smoothly as Thunderstore.
 
@@ -138,8 +158,7 @@ To manually install mods, please follow the below steps.
 * You can create a “vanilla” profile with no mods
 
 ### Vortex
-* Disable or uninstall mods from the **Mods** tab
-* Use the **Purge Mods** button to revert changes
+* You can remove mods by navigating to the **Mods** tab under the Sons of the Forest section, finding the mod within the list, and clicking **Remove** or **Disable** (under drop-down).
 
 ### Manual
 * Delete files from mod manually
