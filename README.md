@@ -191,4 +191,4 @@ You should now be ready to explore the wild world of **Sons of The Forest mods**
 * [Vortex](https://www.nexusmods.com/about/vortex)
 * [Steam Community Discussions](https://steamcommunity.com/app/1326470/discussions/)
 
-This topic will be updated over time as it is a *work-in-progress*. If you see any ways to improve this guide, please reach out!
+This guide will be updated and improved on over time. If you see any improvements that can be made, please feel free to reach out!
