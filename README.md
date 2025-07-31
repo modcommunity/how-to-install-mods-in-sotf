@@ -1,12 +1,8 @@
-<div align="center">
-
-![banner|800x300](./images/banner.png)
-
-</div>
-
 A guide on how to **download** and **install mods** in **Sons of The Forest** on PC. We've included instructions for downloading mods from [sotf-mods](https://sotf-mods.com), [Thunderstore](https://thunderstore.io), and [Nexus Mods](https://nexusmods.com) along with instructions on how to use their mod managers to install mods.
 
 This guide is focused on **Windows users**, but some modding approaches should also work on Linux through **Steam Proton** or **Wine** with additional setup.
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-sons-of-the-forest/)
 
 Whether you want to enhance survival mechanics, add QOL improvements, or create absolute chaos in the forest, this guide will give you an understanding on how to download and install mods.
 
