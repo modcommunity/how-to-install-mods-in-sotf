@@ -2,7 +2,7 @@ A guide on how to **download** and **install mods** in **Sons of The Forest** on
 
 This guide is focused on **Windows users**, but some modding approaches should also work on Linux through **Steam Proton** or **Wine** with additional setup.
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-sons-of-the-forest/)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://moddingcommunity.com/blog/how-to-install-mods-in-sons-of-the-forest/)
 
 Whether you want to enhance survival mechanics, add QOL improvements, or create absolute chaos in the forest, this guide will give you an understanding on how to download and install mods.
 
